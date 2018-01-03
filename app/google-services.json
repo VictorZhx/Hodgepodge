@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "241118131028",
+    "firebase_url": "https://hodgepodge-815b8.firebaseio.com",
+    "project_id": "hodgepodge-815b8",
+    "storage_bucket": "hodgepodge-815b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241118131028:android:b7d533fe39b9f1bb",
+        "android_client_info": {
+          "package_name": "com.victor.hodgepodge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241118131028-hrcm65eda4hj10077lqirq3gin8soqs0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAakHvdN4FfSY_EL75QNJi4mfFc8xrRkPw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
