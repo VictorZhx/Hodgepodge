@@ -15,4 +15,9 @@ class ExampleUnitTest {
     fun addition_isCorrect() {
         assertEquals(4, (2 + 2).toLong())
     }
+    @Test
+    @Throws(Exception::class)
+    fun addition_isError() {
+        assertEquals(5, (3 + 2).toLong())
+    }
 }
