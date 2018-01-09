@@ -30,43 +30,15 @@ w: /home/victor/develop/android/AndroidStudioProjects/Hodgepodge/app/src/main/ja
 :app:javaPreCompileDebug
 :app:compileDebugJavaWithJavac
 :app:compileDebugUnitTestKotlin
-Using Kotlin incremental compilation
 :app:preDebugUnitTestBuild UP-TO-DATE
 :app:javaPreCompileDebugUnitTest
-:app:compileDebugUnitTestJavaWithJavac NO-SOURCE
+:app:compileDebugUnitTestJavaWithJavac
 :app:mockableAndroidJar
 :app:processDebugJavaRes NO-SOURCE
 :app:processDebugUnitTestJavaRes NO-SOURCE
 :app:testDebugUnitTest
-:app:preReleaseBuild
-:app:compileReleaseAidl
-:app:compileReleaseRenderscript
-:app:checkReleaseManifest
-:app:generateReleaseBuildConfig
-:app:generateReleaseResValues
-:app:generateReleaseResources
-:app:processReleaseGoogleServices
-Parsing json file: /home/victor/develop/android/AndroidStudioProjects/Hodgepodge/app/google-services.json
-:app:mergeReleaseResources
-:app:createReleaseCompatibleScreenManifests
-:app:processReleaseManifest
-:app:splitsDiscoveryTaskRelease
-:app:processReleaseResources
-:app:compileReleaseKotlin
-Using Kotlin incremental compilation
-w: /home/victor/develop/android/AndroidStudioProjects/Hodgepodge/app/src/main/java/com/victor/hodgepodge/base/BasePresenter.kt: (9, 38): Parameter 'baseView' is never used
-:app:generateReleaseSources
-:app:javaPreCompileRelease
-:app:compileReleaseJavaWithJavac
-:app:compileReleaseUnitTestKotlin
-Using Kotlin incremental compilation
-:app:preReleaseUnitTestBuild UP-TO-DATE
-:app:javaPreCompileReleaseUnitTest
-:app:compileReleaseUnitTestJavaWithJavac NO-SOURCE
-:app:processReleaseJavaRes NO-SOURCE
-:app:processReleaseUnitTestJavaRes NO-SOURCE
-:app:testReleaseUnitTest
-:app:test
 
-BUILD SUCCESSFUL in 11s
-38 actionable tasks: 37 executed, 1 up-to-date
+com.victor.hodgepodge.ExampleUnitTest > addition_isCorrect FAILED
+    java.lang.AssertionError at ExampleUnitTest.java:15
+:app:testDebugUnitTest FAILED
+21 actionable tasks: 20 executed, 1 up-to-date
