@@ -72,10 +72,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d41620ab-7bb2-4324-a669-b14833957739" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-01-09-18-07-21-768.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-01-09-18-07-21-768.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-01-09-18-07-26-856.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-01-09-18-07-26-856.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-01-09-18-08-16-639.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-01-09-18-08-16-639.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-01-09-18-08-21-788.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-01-09-18-08-21-788.rawproto" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.3/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.3/fileHashes/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.3/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.3/fileHashes/fileHashes.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.3/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.3/javaCompile/javaCompile.lock" />
@@ -126,13 +126,13 @@
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="399">
-              <caret line="50" column="33" lean-forward="false" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
+              <caret line="51" column="33" lean-forward="false" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
               <folding>
-                <marker date="1515492476823" expanded="true" signature="664:1745" ph="{...}" />
-                <marker date="1515492476823" expanded="true" signature="986:996" ph="{" />
-                <marker date="1515492476823" expanded="true" signature="1063:1069" ph="}" />
-                <marker date="1515492476823" expanded="true" signature="1761:1919" ph="{...}" />
-                <marker date="1515492476823" expanded="true" signature="1797:1917" ph="..." />
+                <marker date="1515492704331" expanded="true" signature="664:1776" ph="{...}" />
+                <marker date="1515492704331" expanded="true" signature="1017:1027" ph="{" />
+                <marker date="1515492704331" expanded="true" signature="1094:1100" ph="}" />
+                <marker date="1515492704331" expanded="true" signature="1792:1950" ph="{...}" />
+                <marker date="1515492704331" expanded="true" signature="1828:1948" ph="..." />
               </folding>
             </state>
           </provider>
@@ -141,8 +141,8 @@
       <file leaf-file-name="gitUtils.sh" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../../../shellExc/gitUtils.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="93" column="0" lean-forward="true" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+            <state relative-caret-position="274">
+              <caret line="97" column="5" lean-forward="false" selection-start-line="97" selection-start-column="5" selection-end-line="97" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -2421,7 +2421,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1515492698237" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1515492783645" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -2494,7 +2494,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1515492698237" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1515492783645" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -2542,7 +2542,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1515492698237" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1515492783645" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2715,7 +2715,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1515492698238" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1515492783646" />
       </method>
     </configuration>
     <list size="4">
@@ -3224,13 +3224,13 @@
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
-          <caret line="50" column="33" lean-forward="false" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
+          <caret line="51" column="33" lean-forward="false" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
           <folding>
-            <marker date="1515492476823" expanded="true" signature="664:1745" ph="{...}" />
-            <marker date="1515492476823" expanded="true" signature="986:996" ph="{" />
-            <marker date="1515492476823" expanded="true" signature="1063:1069" ph="}" />
-            <marker date="1515492476823" expanded="true" signature="1761:1919" ph="{...}" />
-            <marker date="1515492476823" expanded="true" signature="1797:1917" ph="..." />
+            <marker date="1515492704331" expanded="true" signature="664:1776" ph="{...}" />
+            <marker date="1515492704331" expanded="true" signature="1017:1027" ph="{" />
+            <marker date="1515492704331" expanded="true" signature="1094:1100" ph="}" />
+            <marker date="1515492704331" expanded="true" signature="1792:1950" ph="{...}" />
+            <marker date="1515492704331" expanded="true" signature="1828:1948" ph="..." />
           </folding>
         </state>
       </provider>
@@ -3261,8 +3261,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../../../shellExc/gitUtils.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="93" column="0" lean-forward="true" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+        <state relative-caret-position="274">
+          <caret line="97" column="5" lean-forward="false" selection-start-line="97" selection-start-column="5" selection-end-line="97" selection-end-column="5" />
           <folding />
         </state>
       </provider>
