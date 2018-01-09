@@ -68,5 +68,5 @@ Using Kotlin incremental compilation
 :app:testReleaseUnitTest
 :app:test
 
-BUILD SUCCESSFUL in 23s
+BUILD SUCCESSFUL in 11s
 38 actionable tasks: 37 executed, 1 up-to-date
