@@ -72,19 +72,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d41620ab-7bb2-4324-a669-b14833957739" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-01-09-18-14-41-873.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-01-09-18-14-41-873.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-01-09-18-14-46-564.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-01-09-18-14-46-564.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/qe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/testresult.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-01-09-18-16-36-273.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-01-09-18-16-36-273.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-01-09-18-16-40-793.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-01-09-18-16-40-793.rawproto" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.3/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.3/fileHashes/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.3/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.3/fileHashes/fileHashes.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.3/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.3/javaCompile/javaCompile.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.3/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.3/taskHistory/taskHistory.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.3/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.3/taskHistory/taskHistory.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -129,13 +126,13 @@
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="399">
-              <caret line="54" column="33" lean-forward="false" selection-start-line="54" selection-start-column="33" selection-end-line="54" selection-end-column="33" />
+              <caret line="55" column="33" lean-forward="false" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
               <folding>
-                <marker date="1515492976343" expanded="true" signature="664:1869" ph="{...}" />
-                <marker date="1515492976343" expanded="true" signature="1110:1120" ph="{" />
-                <marker date="1515492976343" expanded="true" signature="1187:1193" ph="}" />
-                <marker date="1515492976343" expanded="true" signature="1885:2043" ph="{...}" />
-                <marker date="1515492976343" expanded="true" signature="1921:2041" ph="..." />
+                <marker date="1515493096919" expanded="true" signature="664:1900" ph="{...}" />
+                <marker date="1515493096919" expanded="true" signature="1141:1151" ph="{" />
+                <marker date="1515493096919" expanded="true" signature="1218:1224" ph="}" />
+                <marker date="1515493096919" expanded="true" signature="1916:2074" ph="{...}" />
+                <marker date="1515493096919" expanded="true" signature="1952:2072" ph="..." />
               </folding>
             </state>
           </provider>
@@ -144,8 +141,8 @@
       <file leaf-file-name="gitUtils.sh" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../../../shellExc/gitUtils.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="95" column="0" lean-forward="true" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+            <state relative-caret-position="343">
+              <caret line="100" column="1" lean-forward="true" selection-start-line="100" selection-start-column="1" selection-end-line="100" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -2414,7 +2411,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1515493091365" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1515493197318" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -2487,7 +2484,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1515493091366" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1515493197318" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -2535,7 +2532,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1515493091366" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1515493197318" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2708,7 +2705,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1515493091366" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1515493197318" />
       </method>
     </configuration>
     <list size="4">
@@ -3210,13 +3207,13 @@
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
-          <caret line="54" column="33" lean-forward="false" selection-start-line="54" selection-start-column="33" selection-end-line="54" selection-end-column="33" />
+          <caret line="55" column="33" lean-forward="false" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
           <folding>
-            <marker date="1515492976343" expanded="true" signature="664:1869" ph="{...}" />
-            <marker date="1515492976343" expanded="true" signature="1110:1120" ph="{" />
-            <marker date="1515492976343" expanded="true" signature="1187:1193" ph="}" />
-            <marker date="1515492976343" expanded="true" signature="1885:2043" ph="{...}" />
-            <marker date="1515492976343" expanded="true" signature="1921:2041" ph="..." />
+            <marker date="1515493096919" expanded="true" signature="664:1900" ph="{...}" />
+            <marker date="1515493096919" expanded="true" signature="1141:1151" ph="{" />
+            <marker date="1515493096919" expanded="true" signature="1218:1224" ph="}" />
+            <marker date="1515493096919" expanded="true" signature="1916:2074" ph="{...}" />
+            <marker date="1515493096919" expanded="true" signature="1952:2072" ph="..." />
           </folding>
         </state>
       </provider>
@@ -3255,8 +3252,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../../../shellExc/gitUtils.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="95" column="0" lean-forward="true" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+        <state relative-caret-position="343">
+          <caret line="100" column="1" lean-forward="true" selection-start-line="100" selection-start-column="1" selection-end-line="100" selection-end-column="1" />
           <folding />
         </state>
       </provider>
